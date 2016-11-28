@@ -131,3 +131,6 @@ buildings = {
 		value = 4
 	}
 }
+
+
+######## Railroad can be changed into Observation Post something cheap and quick to build, and gives recon like a radar station.
