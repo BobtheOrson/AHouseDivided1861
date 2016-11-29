@@ -1,4 +1,4 @@
-buildings = {
+dings = {
 
 	# show_on_map:
 	#    if provincial = yes, then show_on_map = X is amount per each province
@@ -35,12 +35,12 @@ buildings = {
 		value = 5
 	}
 
-	air_base = {
+	balloon_base = {
 		show_on_map = 1
 		base_cost = 1250
 		icon_frame = 5
 		air_base = yes
-		max_level = 10
+		max_level = 1
 		value = 1
 	}
 
@@ -101,8 +101,6 @@ buildings = {
 		base_cost = 2500
 		icon_frame = 9
 		infantry_equipment_production_factor = 1
-		disabled_in_dmz = yes
-		air_defence = 1
 		max_level = 5 # This is the max unlock level
 		damage_factor = 0.1
 		value = 1
@@ -123,6 +121,7 @@ buildings = {
 	railroad = {
 		show_on_map = 1
 		base_cost = 3375
+		provincial = yes
 		icon_frame = 11
 		infrastructure = yes
 		#max_level = 0 # max: 5
