@@ -15,11 +15,12 @@ state={
 		owner = USA
 		buildings = {
 			infrastructure = 4
-			industrial_complex = 2
+			industrial_complex = 1
 		}
 		add_core_of = USA
+		add_core_of = CSA
 		victory_points = {
-			12489 1 
+			12489 2 
 		}
 
 	}
