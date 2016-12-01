@@ -1,0 +1,28 @@
+state={
+	id=56
+	name="STATE_56"
+	manpower = 112512
+	
+	state_category = city
+
+	history={
+		owner = HAN
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			dockyard = 2
+
+		}
+		add_core_of = HAN
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 4
+				dockyard = 3
+			}
+		}
+	}
+
+	provinces={
+		  405 3234 9281 11233 11264 11360 11388 
+	}
+}
