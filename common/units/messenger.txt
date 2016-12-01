@@ -1,5 +1,5 @@
 sub_units = {
-	signal_company = {
+	messenger_company = {
 		sprite = infantry
 		map_icon_category = infantry
 		priority = 0
