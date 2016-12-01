@@ -18,11 +18,12 @@ state={
 			industrial_complex = 5
 		}
 		add_core_of = USA
+		add_core_of = CSA
 		victory_points = {
 			4569 10 
 		}
 		victory_points = {
-			10717 10 
+			10717 1 
 		}
 		victory_points = {
 			10370 1 
