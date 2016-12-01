@@ -18,10 +18,8 @@ state={
 			arms_factory = 1
 			rifle_foundry = 1
 			railroad = 1
-			air_base = 5
 			7552 = {
 				naval_base = 5
-
 			}
 		}
 		add_core_of = USA
@@ -29,7 +27,9 @@ state={
 		victory_points = {
 			7552 10 
 		}
-
+        victory_points = {
+			1453 3 
+		}
 	}
 
 	provinces={
