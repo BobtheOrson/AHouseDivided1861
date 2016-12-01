@@ -20,7 +20,10 @@ state={
 		add_core_of = USA
 		add_core_of = CSA
 		victory_points = {
-			7202 1 
+			7202 10 
+		}
+		victory_points = {
+			7012 3 
 		}
 
 	}
