@@ -1,0 +1,35 @@
+state={
+	id=745
+	name="STATE_745"
+	manpower = 87512
+	
+	state_category = city
+
+	history={
+		owner = OLD
+		victory_points = {
+			241 5 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			dockyard = 2
+			241 = {
+				naval_base = 8
+
+			}
+
+		}
+		add_core_of = OLD
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 4
+				dockyard = 3
+			}
+		}
+	}
+
+	provinces={
+		 241 336 309 247
+	}
+}

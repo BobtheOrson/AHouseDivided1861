@@ -1,0 +1,35 @@
+
+state={
+	id=743
+	name="STATE_743"
+	manpower = 102451
+	resources={
+		aluminium=24
+	}
+	
+	state_category = metropolis
+
+	history={
+		owner = BAV
+		victory_points = { 11435 10 }
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+
+		}
+		add_core_of = BAV
+		
+		1939.1.1 ={
+			buildings = {
+				radar_station = 1
+				synthetic_refinery = 3
+			}
+		}
+	}
+
+	provinces={
+		563 3558 11547 
+	}
+	
+	
+}
