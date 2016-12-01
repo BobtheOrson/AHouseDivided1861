@@ -10,12 +10,12 @@ state={
 		owner = CSA
 		buildings = {
 			infrastructure = 6
-			industrial_complex = 5
+			industrial_complex = 3
 			arms_factory = 2
 			foundry = 1
-			air_base = 2
+			air_base = 1
 			11975 = {
-				naval_base = 1
+				naval_base = 2
 			}
 		}
 		add_core_of = USA
@@ -23,13 +23,6 @@ state={
 		victory_points = {
 			12384 10 
 		}
-
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 4
-			}
-		}
-
 	}
 
 	provinces={
