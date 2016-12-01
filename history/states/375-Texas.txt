@@ -1,14 +1,15 @@
 
+
 state={
 	id=375
 	name="STATE_375"
 	manpower = 610000
 	
 	
-	state_category = metropolis
+	state_category = town
 	
 	resources={
-		oil=580
+		oil=5
 		aluminium=96
 	}
 
@@ -18,9 +19,9 @@ state={
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
-			air_base = 3
+			air_base = 0
 			10337 = {
-				naval_base = 3
+				naval_base = 1
 			}
 			6785 = {
 				naval_base = 1
@@ -29,15 +30,8 @@ state={
 		add_core_of = USA
 		add_core_of = CSA
 		victory_points = {
-			10337 10
+			10337 3
 		}
-		victory_points = {
-			3960 10 
-		}
-		victory_points = {
-			12782 1 
-		}
-
 	}
 
 	provinces={
