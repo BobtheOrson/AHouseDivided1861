@@ -1,0 +1,38 @@
+resources = {
+
+	coal = {
+		icon_frame = 1
+		cic = 0.125
+		convoys = 0.1
+	}
+
+	gunpowder = {
+		icon_frame = 1
+		cic = 0.125
+		convoys = 0.1
+	}
+
+	wood = {
+		icon_frame = 1
+		cic = 0.125
+		convoys = 0.1
+	}
+	
+	tungsten = {
+		icon_frame = 4
+		cic = 0.125
+		convoys = 0.1
+	}
+	
+	iron = {
+		icon_frame = 5
+		cic = 0.125
+		convoys = 0.1
+	}
+	
+	chromium = {
+		icon_frame = 6
+		cic = 0.125
+		convoys = 0.1
+	}
+}
