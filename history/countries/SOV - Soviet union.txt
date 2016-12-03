@@ -1,6 +1,6 @@
 ﻿capital = 219
 
-oob = "SOV_1861"
+#oob = "SOV_1861"
 
 set_research_slots = 3
 

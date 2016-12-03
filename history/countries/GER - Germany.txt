@@ -1,6 +1,6 @@
 ﻿capital = 64
 
-oob = "PRU_1861"
+#oob = "PRU_1861"
 
 # Starting tech
 set_technology = {

@@ -1,6 +1,6 @@
 ﻿capital = 61
 
-oob = "MEC_1861"
+#oob = "MEC_1861"
 
 # Starting tech
 set_technology = {
