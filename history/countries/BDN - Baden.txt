@@ -1,6 +1,6 @@
 ﻿capital = 744
 
-oob = "GER_1936"
+oob = "BDN_1861"
 
 # Starting tech
 set_technology = {

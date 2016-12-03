@@ -1,6 +1,6 @@
 ﻿capital = 64
 
-oob = "GER_1936"
+oob = "PRU_1861"
 
 # Starting tech
 set_technology = {
@@ -71,10 +71,6 @@ set_politics = {
 	elections_allowed = no
 
 }
-
-create_faction = Prussia
-add_to_faction = GER
-add_to_faction = SAX
 
 
 create_country_leader = {

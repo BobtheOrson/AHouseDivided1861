@@ -1,6 +1,6 @@
-﻿capital = 65
+﻿capital = 458
 
-oob = "SAX_1861"
+#oob = "GER_1936"
 
 # Starting tech
 set_technology = {
@@ -51,7 +51,7 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 46
+			popularity = 3
 		}
 
 		fascism = {
@@ -63,13 +63,13 @@ set_politics = {
 		}
 		
 		neutrality = { 
-			popularity = 54
+			popularity = 97
 		}
 	}
 	
 	ruling_party = neutrality
-	last_election = "1854.9.8"
-	election_frequency = 48
+	last_election = "1849.1.1"
+	election_frequency = 120
 	elections_allowed = no
 
 }
@@ -77,12 +77,8 @@ set_politics = {
 
 
 create_country_leader = {
-	name = "Johann"
+	name = "Karl von Schrenck von Notzing"
 	desc = "POLITICS_ADOLF_HITLER_DESC"
-	picture = "SAX_Johann.dds"
-	expire = "1873.12.10"
-	ideology = centrism
-	traits = {
-		#
-	}
+	picture = "Portrait_Germany_Adolf_Hitler.dds"
+	expire = "1864.1.1"
 }

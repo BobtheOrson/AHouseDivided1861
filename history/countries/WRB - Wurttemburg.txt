@@ -1,6 +1,6 @@
 ﻿capital = 50
 
-oob = "GER_1936"
+oob = "WRB_1861"
 
 # Starting tech
 set_technology = {
@@ -79,6 +79,10 @@ set_politics = {
 create_country_leader = {
 	name = "William I"
 	desc = "POLITICS_ADOLF_HITLER_DESC"
-	picture = "Portrait_Germany_Adolf_Hitler.dds"
-	expire = "1964.1.1"
+	picture = "WRB_WIlliam.dds"
+	expire = "1964.1.6"
+	ideology = centrism
+	traits = {
+		#
+	}
 }
