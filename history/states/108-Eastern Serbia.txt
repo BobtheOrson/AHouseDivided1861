@@ -11,8 +11,7 @@ state={
 	}
 
 	history={
-		owner = TUR
-		add_core_of = TUR
+		owner = SER
 		buildings = {
 			infrastructure = 4
 		}

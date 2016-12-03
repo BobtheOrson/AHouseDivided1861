@@ -6,8 +6,8 @@ state={
 	
 	state_category = large_city
 	history={
-		owner = TUR
-		add_core_of = TUR
+		owner = SER
+		add_core_of = SER
 		buildings = {
 			infrastructure = 6
 			arms_factory = 3
@@ -18,7 +18,6 @@ state={
 			11586 15 
 		}
 		add_core_of = YUG
-		add_core_of = SER
 	}
 
 	provinces={
