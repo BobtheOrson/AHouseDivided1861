@@ -488,7 +488,7 @@ MOL = {
 	color_ui = rgb { 255  221  3 }
 }
 
-MOL = {
+CSA = {
 	color = rgb { 160 160 160 }
 	color_ui = rgb { 160 160 160 }
 }
