@@ -35,12 +35,12 @@ sub_units = {
 		supply_consumption = 0.1
 
 		forest = {
-			attack = -0.2
-			movement = -0.2
+			attack = -0.1
+			movement = -0.1
 		}
 
 		hills = {
-			movement = -0.05
+			movement = 0.1
 		}
 
 		mountain = {
@@ -58,7 +58,7 @@ sub_units = {
 		}
 
 		fort = {
-			attack = 0.1
+			attack = -0.1
 		}
 
 		river = {
