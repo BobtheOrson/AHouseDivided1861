@@ -1,0 +1,73 @@
+# options for map_icon_category:
+# For land units: infantry,armored,other
+# For sea units: ship,transport,uboat
+
+sub_units = {
+
+	cavalry_brigade = {
+		sprite = cavalry
+		map_icon_category = other
+		priority = 599
+		active = yes
+		cavalry = yes
+    support_brigade = yes
+
+		type = { infantry }
+		
+		group = support
+		
+		categories = {
+			category_front_line
+			category_army
+      category_support_battalions
+		}
+
+		
+		combat_width = 2
+		
+		#Size Definitions
+		max_organisation = 35
+		max_strength = 15
+		default_morale = 0.3
+		manpower = 250
+
+		#Misc Abilities
+		maximum_speed = 0.7
+		training_time = 120		
+		weight = 0.3
+		
+		supply_consumption = 0.6
+
+		#Offensive Abilities
+		suppression = 1
+	
+		need = {
+			support_gun_equipment = 20
+		}
+
+		forest = {
+			attack = -0.05
+		}
+
+		hills = {
+			attack = -0.05
+		}
+
+		mountain = {
+			attack = -0.1
+			movement = -0.05
+		}
+
+		jungle = {
+			attack = -0.1
+		}
+
+		urban = {
+			attack = -0.05
+		}
+
+		amphibious = {
+			attack = -0.4
+		}
+	}
+}
