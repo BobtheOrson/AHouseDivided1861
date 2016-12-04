@@ -30,11 +30,10 @@ sub_units = {
 		#Misc Abilities
 		weight = 0.1
 		supply_consumption = 0.05
-		can_be_parachuted = yes
 
 		# Important Ability
 		casualty_trickleback = 0.20
-		experience_loss_factor = -0.10
+		experience_loss_factor = -0.02
 
 		essential = {
 			support_equipment
@@ -42,8 +41,7 @@ sub_units = {
 		}
 		
 		need = {
-			support_equipment = 30
-			motorized_equipment = 20
+			support_equipment = 40
 		}
 	}
 }
