@@ -1,6 +1,6 @@
 sub_units = {
 
-	artillery = {
+	artillery_brigade = {
 		sprite = artillery
 		map_icon_category = infantry
 		priority = 0
