@@ -1,7 +1,7 @@
 sub_units = {
 
-	anti_tank_brigade = {
-		sprite = anti_tank
+	skirmisher_brigade = {
+		sprite = infantry
 		map_icon_category = infantry
 		priority = 1197
 		active = yes
@@ -9,7 +9,7 @@ sub_units = {
 		
 		type = {
 			infantry
-			anti_tank
+			support
 		}
 		
 		group = infantry
@@ -17,20 +17,20 @@ sub_units = {
 		categories = {
 			category_front_line
 			category_army
-			category_line_artillery
+			category_light_infantry
 		}		
 		
 		combat_width = 1
 
 		need = {
-			anti_tank_equipment = 36
+			support_gun_equipment = 15
 		}
 		manpower = 500
 		max_organisation = 0
-		default_morale = 0
+		default_morale = 0.1
 		max_strength = 0.6
 		training_time = 120
-		weight = 0.5
+		weight = 0.2
 
 		supply_consumption = 0.1
 
