@@ -23,20 +23,26 @@ set_technology = {
 set_politics = {
 
 	parties = {
-		pro-union = { 
+		liberalism = { 
 			popularity = 20
 		}
 		
-		pro-confederate = {
+		conservatism = {
 			popularity = 80
 		}
 		
 		neutrality = { 
 			popularity = 0
 		}
+		democratic_neutrality = { 
+			popularity = 0
+		}
+		radicalism = { 
+			popularity = 0
+		}
 	}
 	
-	ruling_party = pro-confederate
+	ruling_party = conservatism
 	last_election = "1836.2.8"
 	election_frequency = 72
 	elections_allowed = yes
