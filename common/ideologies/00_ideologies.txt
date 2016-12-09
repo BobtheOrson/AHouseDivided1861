@@ -7,7 +7,7 @@ ideologies = {
 			republican = {
 			}
 		
-			northern democrat = {
+			northern_democrat = {
 			}
 		
 			unionist = {
@@ -16,7 +16,7 @@ ideologies = {
 			anti-slavery = {
 			}
 			
-			european liberal = {
+			european_liberal = {
 			}
 		}
 		
@@ -65,19 +65,19 @@ ideologies = {
 		
 		types = {
 		
-			confederate = {
+			pro-confederate = {
 			}
 			
-			southern democrat = {
+			southern_democrat = {
 			}
 			
-			northern confederate = {
+			northern_confederate = {
 			}
 			
 			pro-slavery = {
 			}
 			
-			european conservative = {
+			european_conservative = {
 			}
 		}
 		
@@ -142,8 +142,8 @@ ideologies = {
 		
 		rules = {
 			can_force_government = no
-			can_puppet = no
-			can_send_volunteers = no
+			can_puppet = yes
+			can_send_volunteers = yes
 		}
 		
 		modifiers = {
@@ -159,7 +159,7 @@ ideologies = {
 		faction_modifiers = {
 		}
 
-		can_be_boosted = no
+		can_be_boosted = yes
 
 		ai_neutral = yes # 
 	}
@@ -179,12 +179,12 @@ ideologies = {
 		}
 		
 		dynamic_faction_names = {
-			"FACTION_NAME_DEMOCRATIC_1"
-			"FACTION_NAME_DEMOCRATIC_2"
-			"FACTION_NAME_DEMOCRATIC_3"
-			"FACTION_NAME_DEMOCRATIC_4"
-			"FACTION_NAME_DEMOCRATIC_5"
-			"FACTION_NAME_DEMOCRATIC_6"
+			"FACTION_NAME_RADICALISM_1"
+			"FACTION_NAME_RADICALISM_2"
+			"FACTION_NAME_RADICALISM_3"
+			"FACTION_NAME_RADICALISM_4"
+			"FACTION_NAME_RADICALISM_5"
+			"FACTION_NAME_RADICALISM_6"
 		}
 		
 		color = { 255 0 0 }
@@ -218,7 +218,7 @@ ideologies = {
 		ai_liberalism = yes # uses the democratic AI behaviour
 	}
 
-	democratic neutrality = {
+	democratic_neutrality = {
 	
 		types = {
 			
