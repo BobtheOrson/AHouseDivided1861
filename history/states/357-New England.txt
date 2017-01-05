@@ -1,0 +1,38 @@
+state={
+	id=357
+	name="STATE_357"
+
+	state_category = metropolis
+
+
+	history={
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			infrastructure = 6
+			arms_factory = 2
+			industrial_complex = 2
+			dockyard = 2
+			air_base = 2
+			6732 = {
+				naval_base = 8
+
+			}
+			9832 = {
+				naval_base = 3
+
+			}
+
+		}
+		victory_points = {
+			6732 20 
+		}
+
+	}
+
+	provinces={
+		715 718 905 908 3710 3906 6732 6909 9832 9847 9850 11830
+	}
+	manpower= 1242300
+	buildings_max_level_factor=1.000
+}
