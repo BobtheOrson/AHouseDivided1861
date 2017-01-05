@@ -1,0 +1,32 @@
+state={
+	id=752
+	name="STATE_752"
+	resources={
+		steel=7.000
+	}
+
+	state_category = metropolis
+
+
+	history={
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 2
+			dockyard = 1
+
+		}
+		victory_points = {
+			12459 1 
+		}
+
+	}
+
+	provinces={
+		1619 1338 6719 7462 3732 12202 12221 12459 1282 4287 10247 10318
+	}
+	manpower=1404713
+	buildings_max_level_factor=1.000
+}
+#Hello_There,_whatcha_doing_here?_aight_m8_lets_get_back_to_work

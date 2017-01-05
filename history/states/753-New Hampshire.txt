@@ -1,0 +1,27 @@
+state={
+	id=753
+	name="STATE_753"
+	resources={
+		steel=16.000
+	}
+
+	state_category = metropolis
+
+
+	history={
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+
+		}
+
+	}
+
+	provinces={
+		733 3712 3715 4445 7629 10481 9675 13158 
+	}
+	manpower=763400
+	buildings_max_level_factor=1.000
+}

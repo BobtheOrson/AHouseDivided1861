@@ -1,0 +1,19 @@
+
+state={
+	id=751
+	name="STATE_751"
+	manpower = 15390
+	
+	state_category = rural
+
+	history={
+		owner = MOR
+		add_core_of = MOR
+		
+
+	}
+
+	provinces={
+		7943 8035 10779 10838
+	}
+}
